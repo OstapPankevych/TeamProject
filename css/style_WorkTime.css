@@ -64,32 +64,18 @@ nav ul li a:hover{
 		padding-bottom: 30px;
 		border-top: dotted 4px #b3adad;
 		font-family: Geneva, Arial, Helvetica, sans-serif;
-		font-size: 1.05em;
+		font-size: 130px;
 		padding-top: 30px;
 	}
 
-		.mainContentLeft{
-			float:left;
-			width:50%;
-		}
-			.mainContentLeft img{
-			float:left;
-			margin: 0 10px;
-			}
 
-		.mainContentRight{
-			padding-left: 20px;
-			margin-left:50%;
-			width:50%;
-		}	
-
-.bestchoise{
+.basket{
 	margin-top: 30px;
 	padding-bottom: 30px;
 	padding-top: 30px;
 	border-top: dotted 4px #b3adad;
 }
-	.bestchoise li{
+	.basket li{
 		float: left;
 		width: 33%;
 		list-style-type: none;
